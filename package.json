@@ -1,0 +1,24 @@
+{
+  "name": "semiproject",
+  "version": "1.0.0",
+  "description": "this is my 3 Projects combined",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "build": "webpack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/GugaTamazashvili.git"
+  },
+  "author": "Guga Tamazashvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/GugaTamazashvili/issues"
+  },
+  "homepage": "https://github.com/github.com/GugaTamazashvili#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
